@@ -18,8 +18,8 @@ target_link_libraries(2048 sfml-graphics sfml-window sfml-system)
 if(WIN32)
     add_custom_command(TARGET 2048 POST_BUILD
         COMMAND ${CMAKE_COMMAND} -E copy_if_different
-        $<TARGET_RUNTIME_DLLS:2048> # Burası tetris kalmıştı, 2048 yaptık
-        $<TARGET_FILE_DIR:2048>      # Burası tetris kalmıştı, 2048 yaptık
+        $<TARGET_RUNTIME_DLLS:2048> #  2048 yaptık
+        $<TARGET_FILE_DIR:2048>      # 2048 yaptık
         COMMAND_EXPAND_LISTS
     )
 endif()
