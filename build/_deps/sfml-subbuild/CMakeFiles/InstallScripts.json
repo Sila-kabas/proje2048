@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/prog2proje/build/_deps/sfml-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
