@@ -7,6 +7,7 @@ class Oyun {
     private:
     sf::RenderWindow window;
     Tahta tahta;
+    sf::Font font;
 
     public:
     Oyun();

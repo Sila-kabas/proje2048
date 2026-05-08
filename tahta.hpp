@@ -8,8 +8,8 @@ class Tahta{
     int skor;
 
     Tahta();
-    void sifirla;
-    void rastgeleSayiEkle;
+    void sifirla();
+    void rastgeleSayiEkle();
 
 };
 #endif

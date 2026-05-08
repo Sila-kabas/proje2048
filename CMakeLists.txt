@@ -1,3 +1,5 @@
+set(CMAKE_C_COMPILER "C:/mingw64/bin/gcc.exe")
+set(CMAKE_CXX_COMPILER "C:/mingw64/bin/g++.exe")
 cmake_minimum_required(VERSION 3.14)
 project(2048_Oyunu) # Proje adını güncelledik
 
@@ -11,7 +13,7 @@ FetchContent_Declare(
 )
 FetchContent_MakeAvailable(SFML)
 
-add_executable(2048 main.cpp)
+add_executable(2048 main.cpp oyun.cpp tahta.cpp)
 
 target_link_libraries(2048 sfml-graphics sfml-window sfml-system)
 
