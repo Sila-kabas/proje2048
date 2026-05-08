@@ -52,7 +52,7 @@ RM = C:\mingw64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prog2proje\output
+CMAKE_SOURCE_DIR = C:\prog2proje
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\prog2proje\build
@@ -73,7 +73,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/codegen:
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/ALCheck.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.obj: _deps/sfml-src/src/SFML/Audio/ALCheck.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.obj -MF CMakeFiles\sfml-audio.dir\ALCheck.cpp.obj.d -o CMakeFiles\sfml-audio.dir\ALCheck.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\ALCheck.cpp
@@ -88,7 +88,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.s: cmake_f
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AlResource.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AlResource.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AlResource.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/AlResource.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AlResource.cpp.obj: _deps/sfml-src/src/SFML/Audio/AlResource.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AlResource.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AlResource.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AlResource.cpp.obj -MF CMakeFiles\sfml-audio.dir\AlResource.cpp.obj.d -o CMakeFiles\sfml-audio.dir\AlResource.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\AlResource.cpp
@@ -103,7 +103,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AlResource.cpp.s: cmak
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioDevice.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioDevice.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioDevice.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/AudioDevice.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioDevice.cpp.obj: _deps/sfml-src/src/SFML/Audio/AudioDevice.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioDevice.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioDevice.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioDevice.cpp.obj -MF CMakeFiles\sfml-audio.dir\AudioDevice.cpp.obj.d -o CMakeFiles\sfml-audio.dir\AudioDevice.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\AudioDevice.cpp
@@ -118,7 +118,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioDevice.cpp.s: cma
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Listener.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Listener.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Listener.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/Listener.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Listener.cpp.obj: _deps/sfml-src/src/SFML/Audio/Listener.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Listener.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Listener.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Listener.cpp.obj -MF CMakeFiles\sfml-audio.dir\Listener.cpp.obj.d -o CMakeFiles\sfml-audio.dir\Listener.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\Listener.cpp
@@ -133,7 +133,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Listener.cpp.s: cmake_
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Music.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Music.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Music.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/Music.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Music.cpp.obj: _deps/sfml-src/src/SFML/Audio/Music.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Music.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Music.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Music.cpp.obj -MF CMakeFiles\sfml-audio.dir\Music.cpp.obj.d -o CMakeFiles\sfml-audio.dir\Music.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\Music.cpp
@@ -148,7 +148,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Music.cpp.s: cmake_for
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/Sound.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.obj: _deps/sfml-src/src/SFML/Audio/Sound.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.obj -MF CMakeFiles\sfml-audio.dir\Sound.cpp.obj.d -o CMakeFiles\sfml-audio.dir\Sound.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\Sound.cpp
@@ -163,7 +163,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.s: cmake_for
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundBuffer.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundBuffer.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundBuffer.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundBuffer.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundBuffer.cpp
@@ -178,7 +178,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.s: cma
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundBufferRecorder.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundBufferRecorder.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundBufferRecorder.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundBufferRecorder.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundBufferRecorder.cpp
@@ -193,7 +193,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cp
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/InputSoundFile.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.obj: _deps/sfml-src/src/SFML/Audio/InputSoundFile.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.obj -MF CMakeFiles\sfml-audio.dir\InputSoundFile.cpp.obj.d -o CMakeFiles\sfml-audio.dir\InputSoundFile.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\InputSoundFile.cpp
@@ -208,7 +208,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.s: 
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/OutputSoundFile.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.obj: _deps/sfml-src/src/SFML/Audio/OutputSoundFile.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.obj -MF CMakeFiles\sfml-audio.dir\OutputSoundFile.cpp.obj.d -o CMakeFiles\sfml-audio.dir\OutputSoundFile.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\OutputSoundFile.cpp
@@ -223,7 +223,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.s:
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundRecorder.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundRecorder.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundRecorder.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundRecorder.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundRecorder.cpp
@@ -238,7 +238,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.s: c
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundSource.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundSource.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundSource.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundSource.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundSource.cpp
@@ -253,7 +253,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.s: cma
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundStream.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundStream.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundStream.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundStream.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundStream.cpp
@@ -268,7 +268,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.s: cma
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundFileFactory.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundFileFactory.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundFileFactory.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundFileFactory.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundFileFactory.cpp
@@ -283,7 +283,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.s
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderFlac.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundFileReaderFlac.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundFileReaderFlac.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundFileReaderFlac.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundFileReaderFlac.cpp
@@ -298,7 +298,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cp
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderMp3.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundFileReaderMp3.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundFileReaderMp3.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundFileReaderMp3.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundFileReaderMp3.cpp
@@ -313,7 +313,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderOgg.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundFileReaderOgg.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundFileReaderOgg.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundFileReaderOgg.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundFileReaderOgg.cpp
@@ -328,7 +328,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderWav.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundFileReaderWav.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundFileReaderWav.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundFileReaderWav.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundFileReaderWav.cpp
@@ -343,7 +343,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterFlac.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundFileWriterFlac.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundFileWriterFlac.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundFileWriterFlac.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundFileWriterFlac.cpp
@@ -358,7 +358,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cp
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterOgg.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundFileWriterOgg.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundFileWriterOgg.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundFileWriterOgg.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundFileWriterOgg.cpp
@@ -373,7 +373,7 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterWav.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/flags.make
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterWav.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterWav.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterWav.cpp
+_deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterWav.cpp.obj: _deps/sfml-src/src/SFML/Audio/SoundFileWriterWav.cpp
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterWav.cpp.obj: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterWav.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterWav.cpp.obj -MF CMakeFiles\sfml-audio.dir\SoundFileWriterWav.cpp.obj.d -o CMakeFiles\sfml-audio.dir\SoundFileWriterWav.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio\SoundFileWriterWav.cpp
@@ -443,12 +443,12 @@ _deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-build/src/SFML/Audio/CMakeFi
 _deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/sfml-audio.rc.obj
 _deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/build.make
 _deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-build/lib/libsfml-system-d.a
-_deps/sfml-build/lib/sfml-audio-d-2.dll: C:/prog2proje/build/_deps/sfml-src/extlibs/libs-mingw/x64/libopenal32.a
-_deps/sfml-build/lib/sfml-audio-d-2.dll: C:/prog2proje/build/_deps/sfml-src/extlibs/libs-mingw/x64/libvorbisenc.a
-_deps/sfml-build/lib/sfml-audio-d-2.dll: C:/prog2proje/build/_deps/sfml-src/extlibs/libs-mingw/x64/libvorbisfile.a
-_deps/sfml-build/lib/sfml-audio-d-2.dll: C:/prog2proje/build/_deps/sfml-src/extlibs/libs-mingw/x64/libvorbis.a
-_deps/sfml-build/lib/sfml-audio-d-2.dll: C:/prog2proje/build/_deps/sfml-src/extlibs/libs-mingw/x64/libogg.a
-_deps/sfml-build/lib/sfml-audio-d-2.dll: C:/prog2proje/build/_deps/sfml-src/extlibs/libs-mingw/x64/libFLAC.a
+_deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-src/extlibs/libs-mingw/x64/libopenal32.a
+_deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-src/extlibs/libs-mingw/x64/libvorbisenc.a
+_deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-src/extlibs/libs-mingw/x64/libvorbisfile.a
+_deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-src/extlibs/libs-mingw/x64/libvorbis.a
+_deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-src/extlibs/libs-mingw/x64/libogg.a
+_deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-src/extlibs/libs-mingw/x64/libFLAC.a
 _deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/linkLibs.rsp
 _deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/objects1.rsp
 _deps/sfml-build/lib/sfml-audio-d-2.dll: _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/link.txt
@@ -464,6 +464,6 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/clean:
 .PHONY : _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/clean
 
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje\output C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio C:\prog2proje\build C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio\CMakeFiles\sfml-audio.dir\DependInfo.cmake "--color=$(COLOR)" sfml-audio
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje C:\prog2proje\build\_deps\sfml-src\src\SFML\Audio C:\prog2proje\build C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio C:\prog2proje\build\_deps\sfml-build\src\SFML\Audio\CMakeFiles\sfml-audio.dir\DependInfo.cmake "--color=$(COLOR)" sfml-audio
 .PHONY : _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/depend
 

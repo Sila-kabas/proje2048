@@ -52,7 +52,7 @@ RM = C:\mingw64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prog2proje\output
+CMAKE_SOURCE_DIR = C:\prog2proje
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\prog2proje\build
@@ -73,7 +73,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/codegen:
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Clipboard.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj: _deps/sfml-src/src/SFML/Window/Clipboard.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj -MF CMakeFiles\sfml-window.dir\Clipboard.cpp.obj.d -o CMakeFiles\sfml-window.dir\Clipboard.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Clipboard.cpp
@@ -88,7 +88,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.s: cma
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Context.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj: _deps/sfml-src/src/SFML/Window/Context.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj -MF CMakeFiles\sfml-window.dir\Context.cpp.obj.d -o CMakeFiles\sfml-window.dir\Context.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Context.cpp
@@ -103,7 +103,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.s: cmake
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Cursor.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj: _deps/sfml-src/src/SFML/Window/Cursor.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj -MF CMakeFiles\sfml-window.dir\Cursor.cpp.obj.d -o CMakeFiles\sfml-window.dir\Cursor.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Cursor.cpp
@@ -118,7 +118,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.s: cmake_
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/GlContext.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj: _deps/sfml-src/src/SFML/Window/GlContext.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj -MF CMakeFiles\sfml-window.dir\GlContext.cpp.obj.d -o CMakeFiles\sfml-window.dir\GlContext.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\GlContext.cpp
@@ -133,7 +133,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.s: cma
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/GlResource.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj: _deps/sfml-src/src/SFML/Window/GlResource.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj -MF CMakeFiles\sfml-window.dir\GlResource.cpp.obj.d -o CMakeFiles\sfml-window.dir\GlResource.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\GlResource.cpp
@@ -148,7 +148,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.s: cm
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Joystick.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj: _deps/sfml-src/src/SFML/Window/Joystick.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj -MF CMakeFiles\sfml-window.dir\Joystick.cpp.obj.d -o CMakeFiles\sfml-window.dir\Joystick.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Joystick.cpp
@@ -163,7 +163,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.s: cmak
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/JoystickManager.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj: _deps/sfml-src/src/SFML/Window/JoystickManager.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj -MF CMakeFiles\sfml-window.dir\JoystickManager.cpp.obj.d -o CMakeFiles\sfml-window.dir\JoystickManager.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\JoystickManager.cpp
@@ -178,7 +178,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Keyboard.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj: _deps/sfml-src/src/SFML/Window/Keyboard.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj -MF CMakeFiles\sfml-window.dir\Keyboard.cpp.obj.d -o CMakeFiles\sfml-window.dir\Keyboard.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Keyboard.cpp
@@ -193,7 +193,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.s: cmak
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Mouse.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj: _deps/sfml-src/src/SFML/Window/Mouse.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj -MF CMakeFiles\sfml-window.dir\Mouse.cpp.obj.d -o CMakeFiles\sfml-window.dir\Mouse.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Mouse.cpp
@@ -208,7 +208,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.s: cmake_f
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Touch.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj: _deps/sfml-src/src/SFML/Window/Touch.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj -MF CMakeFiles\sfml-window.dir\Touch.cpp.obj.d -o CMakeFiles\sfml-window.dir\Touch.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Touch.cpp
@@ -223,7 +223,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.s: cmake_f
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Sensor.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj: _deps/sfml-src/src/SFML/Window/Sensor.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj -MF CMakeFiles\sfml-window.dir\Sensor.cpp.obj.d -o CMakeFiles\sfml-window.dir\Sensor.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Sensor.cpp
@@ -238,7 +238,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.s: cmake_
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/SensorManager.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj: _deps/sfml-src/src/SFML/Window/SensorManager.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj -MF CMakeFiles\sfml-window.dir\SensorManager.cpp.obj.d -o CMakeFiles\sfml-window.dir\SensorManager.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\SensorManager.cpp
@@ -253,7 +253,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.s:
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/VideoMode.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj: _deps/sfml-src/src/SFML/Window/VideoMode.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj -MF CMakeFiles\sfml-window.dir\VideoMode.cpp.obj.d -o CMakeFiles\sfml-window.dir\VideoMode.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\VideoMode.cpp
@@ -268,7 +268,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.s: cma
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Vulkan.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj: _deps/sfml-src/src/SFML/Window/Vulkan.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj -MF CMakeFiles\sfml-window.dir\Vulkan.cpp.obj.d -o CMakeFiles\sfml-window.dir\Vulkan.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Vulkan.cpp
@@ -283,7 +283,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.s: cmake_
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Window.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj: _deps/sfml-src/src/SFML/Window/Window.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj -MF CMakeFiles\sfml-window.dir\Window.cpp.obj.d -o CMakeFiles\sfml-window.dir\Window.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Window.cpp
@@ -298,7 +298,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.s: cmake_
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/WindowBase.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj: _deps/sfml-src/src/SFML/Window/WindowBase.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj -MF CMakeFiles\sfml-window.dir\WindowBase.cpp.obj.d -o CMakeFiles\sfml-window.dir\WindowBase.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\WindowBase.cpp
@@ -313,7 +313,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.s: cm
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/WindowImpl.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj: _deps/sfml-src/src/SFML/Window/WindowImpl.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj -MF CMakeFiles\sfml-window.dir\WindowImpl.cpp.obj.d -o CMakeFiles\sfml-window.dir\WindowImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\WindowImpl.cpp
@@ -328,7 +328,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.s: cm
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Win32/CursorImpl.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj: _deps/sfml-src/src/SFML/Window/Win32/CursorImpl.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj -MF CMakeFiles\sfml-window.dir\Win32\CursorImpl.cpp.obj.d -o CMakeFiles\sfml-window.dir\Win32\CursorImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Win32\CursorImpl.cpp
@@ -343,7 +343,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Win32/ClipboardImpl.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj: _deps/sfml-src/src/SFML/Window/Win32/ClipboardImpl.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj -MF CMakeFiles\sfml-window.dir\Win32\ClipboardImpl.cpp.obj.d -o CMakeFiles\sfml-window.dir\Win32\ClipboardImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Win32\ClipboardImpl.cpp
@@ -358,7 +358,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Win32/InputImpl.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj: _deps/sfml-src/src/SFML/Window/Win32/InputImpl.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj -MF CMakeFiles\sfml-window.dir\Win32\InputImpl.cpp.obj.d -o CMakeFiles\sfml-window.dir\Win32\InputImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Win32\InputImpl.cpp
@@ -373,7 +373,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj: _deps/sfml-src/src/SFML/Window/Win32/JoystickImpl.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj -MF CMakeFiles\sfml-window.dir\Win32\JoystickImpl.cpp.obj.d -o CMakeFiles\sfml-window.dir\Win32\JoystickImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Win32\JoystickImpl.cpp
@@ -388,7 +388,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.c
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Win32/SensorImpl.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj: _deps/sfml-src/src/SFML/Window/Win32/SensorImpl.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj -MF CMakeFiles\sfml-window.dir\Win32\SensorImpl.cpp.obj.d -o CMakeFiles\sfml-window.dir\Win32\SensorImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Win32\SensorImpl.cpp
@@ -403,7 +403,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Win32/VideoModeImpl.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj: _deps/sfml-src/src/SFML/Window/Win32/VideoModeImpl.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj -MF CMakeFiles\sfml-window.dir\Win32\VideoModeImpl.cpp.obj.d -o CMakeFiles\sfml-window.dir\Win32\VideoModeImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Win32\VideoModeImpl.cpp
@@ -418,7 +418,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Win32/VulkanImplWin32.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj: _deps/sfml-src/src/SFML/Window/Win32/VulkanImplWin32.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj -MF CMakeFiles\sfml-window.dir\Win32\VulkanImplWin32.cpp.obj.d -o CMakeFiles\sfml-window.dir\Win32\VulkanImplWin32.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Win32\VulkanImplWin32.cpp
@@ -433,7 +433,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin3
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Win32/WindowImplWin32.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj: _deps/sfml-src/src/SFML/Window/Win32/WindowImplWin32.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj -MF CMakeFiles\sfml-window.dir\Win32\WindowImplWin32.cpp.obj.d -o CMakeFiles\sfml-window.dir\Win32\WindowImplWin32.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Win32\WindowImplWin32.cpp
@@ -448,7 +448,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin3
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Window/Win32/WglContext.cpp
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj: _deps/sfml-src/src/SFML/Window/Win32/WglContext.cpp
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Window && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj -MF CMakeFiles\sfml-window.dir\Win32\WglContext.cpp.obj.d -o CMakeFiles\sfml-window.dir\Win32\WglContext.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Window\Win32\WglContext.cpp
@@ -543,6 +543,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/clean:
 .PHONY : _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/clean
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje\output C:\prog2proje\build\_deps\sfml-src\src\SFML\Window C:\prog2proje\build C:\prog2proje\build\_deps\sfml-build\src\SFML\Window C:\prog2proje\build\_deps\sfml-build\src\SFML\Window\CMakeFiles\sfml-window.dir\DependInfo.cmake "--color=$(COLOR)" sfml-window
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje C:\prog2proje\build\_deps\sfml-src\src\SFML\Window C:\prog2proje\build C:\prog2proje\build\_deps\sfml-build\src\SFML\Window C:\prog2proje\build\_deps\sfml-build\src\SFML\Window\CMakeFiles\sfml-window.dir\DependInfo.cmake "--color=$(COLOR)" sfml-window
 .PHONY : _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/depend
 

@@ -4,6 +4,10 @@ file(REMOVE_RECURSE
   "2048.pdb"
   "CMakeFiles/2048.dir/main.cpp.obj"
   "CMakeFiles/2048.dir/main.cpp.obj.d"
+  "CMakeFiles/2048.dir/oyun.cpp.obj"
+  "CMakeFiles/2048.dir/oyun.cpp.obj.d"
+  "CMakeFiles/2048.dir/tahta.cpp.obj"
+  "CMakeFiles/2048.dir/tahta.cpp.obj.d"
   "lib2048.dll.a"
 )
 

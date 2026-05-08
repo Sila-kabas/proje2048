@@ -1,4 +1,4 @@
-CMakeFiles/2048.dir/main.cpp.obj: C:\prog2proje\output\main.cpp \
+CMakeFiles/2048.dir/main.cpp.obj: C:\prog2proje\main.cpp \
  C:/mingw64/include/c++/15.2.0/iostream \
  C:/mingw64/include/c++/15.2.0/bits/requires_hosted.h \
  C:/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -252,4 +252,5 @@ CMakeFiles/2048.dir/main.cpp.obj: C:\prog2proje\output\main.cpp \
  C:/prog2proje/build/_deps/sfml-src/include/SFML/Graphics/Glsl.inl \
  C:/prog2proje/build/_deps/sfml-src/include/SFML/Graphics/Sprite.hpp \
  C:/prog2proje/build/_deps/sfml-src/include/SFML/Graphics/Text.hpp \
- C:/prog2proje/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp
+ C:/prog2proje/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
+ C:\prog2proje\oyun.hpp C:\prog2proje\tahta.hpp

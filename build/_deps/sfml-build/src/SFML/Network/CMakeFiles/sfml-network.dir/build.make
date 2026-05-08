@@ -52,7 +52,7 @@ RM = C:\mingw64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prog2proje\output
+CMAKE_SOURCE_DIR = C:\prog2proje
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\prog2proje\build
@@ -73,7 +73,7 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/codegen:
 
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Ftp.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/flags.make
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Ftp.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Ftp.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Network/Ftp.cpp
+_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Ftp.cpp.obj: _deps/sfml-src/src/SFML/Network/Ftp.cpp
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Ftp.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Ftp.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Network && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Ftp.cpp.obj -MF CMakeFiles\sfml-network.dir\Ftp.cpp.obj.d -o CMakeFiles\sfml-network.dir\Ftp.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Network\Ftp.cpp
@@ -88,7 +88,7 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Ftp.cpp.s: cmake_f
 
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/flags.make
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Network/Http.cpp
+_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.obj: _deps/sfml-src/src/SFML/Network/Http.cpp
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Network && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.obj -MF CMakeFiles\sfml-network.dir\Http.cpp.obj.d -o CMakeFiles\sfml-network.dir\Http.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Network\Http.cpp
@@ -103,7 +103,7 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.s: cmake_
 
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/IpAddress.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/flags.make
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/IpAddress.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/IpAddress.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Network/IpAddress.cpp
+_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/IpAddress.cpp.obj: _deps/sfml-src/src/SFML/Network/IpAddress.cpp
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/IpAddress.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/IpAddress.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Network && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/IpAddress.cpp.obj -MF CMakeFiles\sfml-network.dir\IpAddress.cpp.obj.d -o CMakeFiles\sfml-network.dir\IpAddress.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Network\IpAddress.cpp
@@ -118,7 +118,7 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/IpAddress.cpp.s: c
 
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Packet.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/flags.make
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Packet.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Packet.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Network/Packet.cpp
+_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Packet.cpp.obj: _deps/sfml-src/src/SFML/Network/Packet.cpp
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Packet.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Packet.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Network && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Packet.cpp.obj -MF CMakeFiles\sfml-network.dir\Packet.cpp.obj.d -o CMakeFiles\sfml-network.dir\Packet.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Network\Packet.cpp
@@ -133,7 +133,7 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Packet.cpp.s: cmak
 
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Socket.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/flags.make
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Socket.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Socket.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Network/Socket.cpp
+_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Socket.cpp.obj: _deps/sfml-src/src/SFML/Network/Socket.cpp
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Socket.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Socket.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Network && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Socket.cpp.obj -MF CMakeFiles\sfml-network.dir\Socket.cpp.obj.d -o CMakeFiles\sfml-network.dir\Socket.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Network\Socket.cpp
@@ -148,7 +148,7 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Socket.cpp.s: cmak
 
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/SocketSelector.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/flags.make
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/SocketSelector.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/SocketSelector.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Network/SocketSelector.cpp
+_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/SocketSelector.cpp.obj: _deps/sfml-src/src/SFML/Network/SocketSelector.cpp
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/SocketSelector.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/SocketSelector.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Network && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/SocketSelector.cpp.obj -MF CMakeFiles\sfml-network.dir\SocketSelector.cpp.obj.d -o CMakeFiles\sfml-network.dir\SocketSelector.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Network\SocketSelector.cpp
@@ -163,7 +163,7 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/SocketSelector.cpp
 
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpListener.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/flags.make
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpListener.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpListener.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Network/TcpListener.cpp
+_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpListener.cpp.obj: _deps/sfml-src/src/SFML/Network/TcpListener.cpp
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpListener.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpListener.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Network && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpListener.cpp.obj -MF CMakeFiles\sfml-network.dir\TcpListener.cpp.obj.d -o CMakeFiles\sfml-network.dir\TcpListener.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Network\TcpListener.cpp
@@ -178,7 +178,7 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpListener.cpp.s:
 
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpSocket.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/flags.make
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpSocket.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpSocket.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Network/TcpSocket.cpp
+_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpSocket.cpp.obj: _deps/sfml-src/src/SFML/Network/TcpSocket.cpp
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpSocket.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpSocket.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Network && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpSocket.cpp.obj -MF CMakeFiles\sfml-network.dir\TcpSocket.cpp.obj.d -o CMakeFiles\sfml-network.dir\TcpSocket.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Network\TcpSocket.cpp
@@ -193,7 +193,7 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpSocket.cpp.s: c
 
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/UdpSocket.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/flags.make
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/UdpSocket.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/UdpSocket.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Network/UdpSocket.cpp
+_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/UdpSocket.cpp.obj: _deps/sfml-src/src/SFML/Network/UdpSocket.cpp
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/UdpSocket.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/UdpSocket.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Network && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/UdpSocket.cpp.obj -MF CMakeFiles\sfml-network.dir\UdpSocket.cpp.obj.d -o CMakeFiles\sfml-network.dir\UdpSocket.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Network\UdpSocket.cpp
@@ -208,7 +208,7 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/UdpSocket.cpp.s: c
 
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Win32/SocketImpl.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/flags.make
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Win32/SocketImpl.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Win32/SocketImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Network/Win32/SocketImpl.cpp
+_deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Win32/SocketImpl.cpp.obj: _deps/sfml-src/src/SFML/Network/Win32/SocketImpl.cpp
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Win32/SocketImpl.cpp.obj: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Win32/SocketImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Network && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Win32/SocketImpl.cpp.obj -MF CMakeFiles\sfml-network.dir\Win32\SocketImpl.cpp.obj.d -o CMakeFiles\sfml-network.dir\Win32\SocketImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Network\Win32\SocketImpl.cpp
@@ -271,6 +271,6 @@ _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/clean:
 .PHONY : _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/clean
 
 _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje\output C:\prog2proje\build\_deps\sfml-src\src\SFML\Network C:\prog2proje\build C:\prog2proje\build\_deps\sfml-build\src\SFML\Network C:\prog2proje\build\_deps\sfml-build\src\SFML\Network\CMakeFiles\sfml-network.dir\DependInfo.cmake "--color=$(COLOR)" sfml-network
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje C:\prog2proje\build\_deps\sfml-src\src\SFML\Network C:\prog2proje\build C:\prog2proje\build\_deps\sfml-build\src\SFML\Network C:\prog2proje\build\_deps\sfml-build\src\SFML\Network\CMakeFiles\sfml-network.dir\DependInfo.cmake "--color=$(COLOR)" sfml-network
 .PHONY : _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/depend
 

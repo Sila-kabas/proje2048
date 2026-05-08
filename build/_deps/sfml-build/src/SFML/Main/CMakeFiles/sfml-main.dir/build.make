@@ -52,7 +52,7 @@ RM = C:\mingw64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prog2proje\output
+CMAKE_SOURCE_DIR = C:\prog2proje
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\prog2proje\build
@@ -73,7 +73,7 @@ _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/codegen:
 
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/flags.make
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Main/MainWin32.cpp
+_deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: _deps/sfml-src/src/SFML/Main/MainWin32.cpp
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj: _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Main && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj -MF CMakeFiles\sfml-main.dir\MainWin32.cpp.obj.d -o CMakeFiles\sfml-main.dir\MainWin32.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Main\MainWin32.cpp
@@ -109,6 +109,6 @@ _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/clean:
 .PHONY : _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/clean
 
 _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje\output C:\prog2proje\build\_deps\sfml-src\src\SFML\Main C:\prog2proje\build C:\prog2proje\build\_deps\sfml-build\src\SFML\Main C:\prog2proje\build\_deps\sfml-build\src\SFML\Main\CMakeFiles\sfml-main.dir\DependInfo.cmake "--color=$(COLOR)" sfml-main
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje C:\prog2proje\build\_deps\sfml-src\src\SFML\Main C:\prog2proje\build C:\prog2proje\build\_deps\sfml-build\src\SFML\Main C:\prog2proje\build\_deps\sfml-build\src\SFML\Main\CMakeFiles\sfml-main.dir\DependInfo.cmake "--color=$(COLOR)" sfml-main
 .PHONY : _deps/sfml-build/src/SFML/Main/CMakeFiles/sfml-main.dir/depend
 

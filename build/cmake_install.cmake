@@ -1,8 +1,8 @@
-# Install script for directory: C:/prog2proje/output
+# Install script for directory: C:/prog2proje
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/2048projesi")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/2048_Oyunu")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

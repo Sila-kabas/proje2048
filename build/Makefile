@@ -56,7 +56,7 @@ RM = C:\mingw64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prog2proje\output
+CMAKE_SOURCE_DIR = C:\prog2proje
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\prog2proje\build
@@ -295,6 +295,54 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2048.dir\build.make CMakeFiles/2048.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+oyun.obj: oyun.cpp.obj
+.PHONY : oyun.obj
+
+# target to build an object file
+oyun.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2048.dir\build.make CMakeFiles/2048.dir/oyun.cpp.obj
+.PHONY : oyun.cpp.obj
+
+oyun.i: oyun.cpp.i
+.PHONY : oyun.i
+
+# target to preprocess a source file
+oyun.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2048.dir\build.make CMakeFiles/2048.dir/oyun.cpp.i
+.PHONY : oyun.cpp.i
+
+oyun.s: oyun.cpp.s
+.PHONY : oyun.s
+
+# target to generate assembly for a file
+oyun.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2048.dir\build.make CMakeFiles/2048.dir/oyun.cpp.s
+.PHONY : oyun.cpp.s
+
+tahta.obj: tahta.cpp.obj
+.PHONY : tahta.obj
+
+# target to build an object file
+tahta.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2048.dir\build.make CMakeFiles/2048.dir/tahta.cpp.obj
+.PHONY : tahta.cpp.obj
+
+tahta.i: tahta.cpp.i
+.PHONY : tahta.i
+
+# target to preprocess a source file
+tahta.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2048.dir\build.make CMakeFiles/2048.dir/tahta.cpp.i
+.PHONY : tahta.cpp.i
+
+tahta.s: tahta.cpp.s
+.PHONY : tahta.s
+
+# target to generate assembly for a file
+tahta.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2048.dir\build.make CMakeFiles/2048.dir/tahta.cpp.s
+.PHONY : tahta.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -319,6 +367,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... oyun.obj
+	@echo ... oyun.i
+	@echo ... oyun.s
+	@echo ... tahta.obj
+	@echo ... tahta.i
+	@echo ... tahta.s
 .PHONY : help
 
 

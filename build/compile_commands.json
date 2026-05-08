@@ -1,9 +1,21 @@
 [
 {
   "directory": "C:/prog2proje/build",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\2048.dir\\main.cpp.obj -c C:\\prog2proje\\output\\main.cpp",
-  "file": "C:/prog2proje/output/main.cpp",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\2048.dir\\main.cpp.obj -c C:\\prog2proje\\main.cpp",
+  "file": "C:/prog2proje/main.cpp",
   "output": "CMakeFiles/2048.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/prog2proje/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\2048.dir\\oyun.cpp.obj -c C:\\prog2proje\\oyun.cpp",
+  "file": "C:/prog2proje/oyun.cpp",
+  "output": "CMakeFiles/2048.dir/oyun.cpp.obj"
+},
+{
+  "directory": "C:/prog2proje/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\2048.dir\\tahta.cpp.obj -c C:\\prog2proje\\tahta.cpp",
+  "file": "C:/prog2proje/tahta.cpp",
+  "output": "CMakeFiles/2048.dir/tahta.cpp.obj"
 },
 {
   "directory": "C:/prog2proje/build/_deps/sfml-build/src/SFML/System",

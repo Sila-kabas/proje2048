@@ -52,7 +52,7 @@ RM = C:\mingw64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prog2proje\output
+CMAKE_SOURCE_DIR = C:\prog2proje
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\prog2proje\build
@@ -73,27 +73,61 @@ CMakeFiles/2048.dir/codegen:
 
 CMakeFiles/2048.dir/main.cpp.obj: CMakeFiles/2048.dir/flags.make
 CMakeFiles/2048.dir/main.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
-CMakeFiles/2048.dir/main.cpp.obj: C:/prog2proje/output/main.cpp
+CMakeFiles/2048.dir/main.cpp.obj: C:/prog2proje/main.cpp
 CMakeFiles/2048.dir/main.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2048.dir/main.cpp.obj"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/main.cpp.obj -MF CMakeFiles\2048.dir\main.cpp.obj.d -o CMakeFiles\2048.dir\main.cpp.obj -c C:\prog2proje\output\main.cpp
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/main.cpp.obj -MF CMakeFiles\2048.dir\main.cpp.obj.d -o CMakeFiles\2048.dir\main.cpp.obj -c C:\prog2proje\main.cpp
 
 CMakeFiles/2048.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2048.dir/main.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prog2proje\output\main.cpp > CMakeFiles\2048.dir\main.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prog2proje\main.cpp > CMakeFiles\2048.dir\main.cpp.i
 
 CMakeFiles/2048.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2048.dir/main.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prog2proje\output\main.cpp -o CMakeFiles\2048.dir\main.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prog2proje\main.cpp -o CMakeFiles\2048.dir\main.cpp.s
+
+CMakeFiles/2048.dir/oyun.cpp.obj: CMakeFiles/2048.dir/flags.make
+CMakeFiles/2048.dir/oyun.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
+CMakeFiles/2048.dir/oyun.cpp.obj: C:/prog2proje/oyun.cpp
+CMakeFiles/2048.dir/oyun.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/2048.dir/oyun.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/oyun.cpp.obj -MF CMakeFiles\2048.dir\oyun.cpp.obj.d -o CMakeFiles\2048.dir\oyun.cpp.obj -c C:\prog2proje\oyun.cpp
+
+CMakeFiles/2048.dir/oyun.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2048.dir/oyun.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prog2proje\oyun.cpp > CMakeFiles\2048.dir\oyun.cpp.i
+
+CMakeFiles/2048.dir/oyun.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2048.dir/oyun.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prog2proje\oyun.cpp -o CMakeFiles\2048.dir\oyun.cpp.s
+
+CMakeFiles/2048.dir/tahta.cpp.obj: CMakeFiles/2048.dir/flags.make
+CMakeFiles/2048.dir/tahta.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
+CMakeFiles/2048.dir/tahta.cpp.obj: C:/prog2proje/tahta.cpp
+CMakeFiles/2048.dir/tahta.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/2048.dir/tahta.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/tahta.cpp.obj -MF CMakeFiles\2048.dir\tahta.cpp.obj.d -o CMakeFiles\2048.dir\tahta.cpp.obj -c C:\prog2proje\tahta.cpp
+
+CMakeFiles/2048.dir/tahta.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2048.dir/tahta.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\prog2proje\tahta.cpp > CMakeFiles\2048.dir\tahta.cpp.i
+
+CMakeFiles/2048.dir/tahta.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2048.dir/tahta.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\prog2proje\tahta.cpp -o CMakeFiles\2048.dir\tahta.cpp.s
 
 # Object files for target 2048
 2048_OBJECTS = \
-"CMakeFiles/2048.dir/main.cpp.obj"
+"CMakeFiles/2048.dir/main.cpp.obj" \
+"CMakeFiles/2048.dir/oyun.cpp.obj" \
+"CMakeFiles/2048.dir/tahta.cpp.obj"
 
 # External object files for target 2048
 2048_EXTERNAL_OBJECTS =
 
 2048.exe: CMakeFiles/2048.dir/main.cpp.obj
+2048.exe: CMakeFiles/2048.dir/oyun.cpp.obj
+2048.exe: CMakeFiles/2048.dir/tahta.cpp.obj
 2048.exe: CMakeFiles/2048.dir/build.make
 2048.exe: _deps/sfml-build/lib/libsfml-graphics-d.a
 2048.exe: _deps/sfml-build/lib/libsfml-window-d.a
@@ -101,7 +135,7 @@ CMakeFiles/2048.dir/main.cpp.s: cmake_force
 2048.exe: CMakeFiles/2048.dir/linkLibs.rsp
 2048.exe: CMakeFiles/2048.dir/objects1.rsp
 2048.exe: CMakeFiles/2048.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 2048.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable 2048.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\2048.dir\link.txt --verbose=$(VERBOSE)
 	C:\mingw64\bin\cmake.exe -E copy_if_different C:/prog2proje/build/_deps/sfml-build/lib/sfml-graphics-d-2.dll C:/prog2proje/build/_deps/sfml-build/lib/sfml-window-d-2.dll C:/prog2proje/build/_deps/sfml-build/lib/sfml-system-d-2.dll C:/prog2proje/build
 
@@ -114,6 +148,6 @@ CMakeFiles/2048.dir/clean:
 .PHONY : CMakeFiles/2048.dir/clean
 
 CMakeFiles/2048.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje\output C:\prog2proje\output C:\prog2proje\build C:\prog2proje\build C:\prog2proje\build\CMakeFiles\2048.dir\DependInfo.cmake "--color=$(COLOR)" 2048
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje C:\prog2proje C:\prog2proje\build C:\prog2proje\build C:\prog2proje\build\CMakeFiles\2048.dir\DependInfo.cmake "--color=$(COLOR)" 2048
 .PHONY : CMakeFiles/2048.dir/depend
 

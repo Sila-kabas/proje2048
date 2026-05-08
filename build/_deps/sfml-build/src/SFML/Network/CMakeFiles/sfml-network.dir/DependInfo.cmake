@@ -18,8 +18,8 @@ set(CMAKE_TARGET_DEFINITIONS_RC
 
 # The include file search paths:
 set(CMAKE_RC_TARGET_INCLUDE_PATH
-  "C:/prog2proje/build/_deps/sfml-src/include"
-  "C:/prog2proje/build/_deps/sfml-src/src"
+  "_deps/sfml-src/include"
+  "_deps/sfml-src/src"
   )
 
 # The set of dependency files which are needed:

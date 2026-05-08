@@ -57,6 +57,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/mingw64/share/cmake-4.3/Modules/Platform/WindowsPaths.cmake"
   "C:/mingw64/share/cmake-4.3/Modules/WriteBasicConfigVersionFile.cmake"
   "C:/mingw64/share/cmake-4.3/Templates/CPackConfig.cmake.in"
+  "C:/prog2proje/CMakeLists.txt"
   "CMakeFiles/4.3.1/CMakeCCompiler.cmake"
   "CMakeFiles/4.3.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.3.1/CMakeRCCompiler.cmake"
@@ -78,7 +79,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "_deps/sfml-src/src/SFML/System/CMakeLists.txt"
   "_deps/sfml-src/src/SFML/Window/CMakeLists.txt"
   "_deps/sfml-src/tools/windows/resource.rc.in"
-  "C:/prog2proje/output/CMakeLists.txt"
   )
 
 # The corresponding makefile is:

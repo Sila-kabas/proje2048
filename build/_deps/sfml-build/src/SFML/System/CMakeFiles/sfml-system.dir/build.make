@@ -52,7 +52,7 @@ RM = C:\mingw64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prog2proje\output
+CMAKE_SOURCE_DIR = C:\prog2proje
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\prog2proje\build
@@ -73,7 +73,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/codegen:
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/Clock.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj: _deps/sfml-src/src/SFML/System/Clock.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj -MF CMakeFiles\sfml-system.dir\Clock.cpp.obj.d -o CMakeFiles\sfml-system.dir\Clock.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\Clock.cpp
@@ -88,7 +88,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.s: cmake_f
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/Err.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj: _deps/sfml-src/src/SFML/System/Err.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj -MF CMakeFiles\sfml-system.dir\Err.cpp.obj.d -o CMakeFiles\sfml-system.dir\Err.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\Err.cpp
@@ -103,7 +103,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.s: cmake_for
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/Lock.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.obj: _deps/sfml-src/src/SFML/System/Lock.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.obj -MF CMakeFiles\sfml-system.dir\Lock.cpp.obj.d -o CMakeFiles\sfml-system.dir\Lock.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\Lock.cpp
@@ -118,7 +118,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.s: cmake_fo
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/Mutex.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.obj: _deps/sfml-src/src/SFML/System/Mutex.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.obj -MF CMakeFiles\sfml-system.dir\Mutex.cpp.obj.d -o CMakeFiles\sfml-system.dir\Mutex.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\Mutex.cpp
@@ -133,7 +133,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.s: cmake_f
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/Sleep.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj: _deps/sfml-src/src/SFML/System/Sleep.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj -MF CMakeFiles\sfml-system.dir\Sleep.cpp.obj.d -o CMakeFiles\sfml-system.dir\Sleep.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\Sleep.cpp
@@ -148,7 +148,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.s: cmake_f
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/String.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj: _deps/sfml-src/src/SFML/System/String.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj -MF CMakeFiles\sfml-system.dir\String.cpp.obj.d -o CMakeFiles\sfml-system.dir\String.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\String.cpp
@@ -163,7 +163,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.s: cmake_
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/Thread.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.obj: _deps/sfml-src/src/SFML/System/Thread.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.obj -MF CMakeFiles\sfml-system.dir\Thread.cpp.obj.d -o CMakeFiles\sfml-system.dir\Thread.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\Thread.cpp
@@ -178,7 +178,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.s: cmake_
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/ThreadLocal.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.obj: _deps/sfml-src/src/SFML/System/ThreadLocal.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.obj -MF CMakeFiles\sfml-system.dir\ThreadLocal.cpp.obj.d -o CMakeFiles\sfml-system.dir\ThreadLocal.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\ThreadLocal.cpp
@@ -193,7 +193,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.s: c
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/Time.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.obj: _deps/sfml-src/src/SFML/System/Time.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.obj -MF CMakeFiles\sfml-system.dir\Time.cpp.obj.d -o CMakeFiles\sfml-system.dir\Time.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\Time.cpp
@@ -208,7 +208,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.s: cmake_fo
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/FileInputStream.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj: _deps/sfml-src/src/SFML/System/FileInputStream.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj -MF CMakeFiles\sfml-system.dir\FileInputStream.cpp.obj.d -o CMakeFiles\sfml-system.dir\FileInputStream.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\FileInputStream.cpp
@@ -223,7 +223,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/MemoryInputStream.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj: _deps/sfml-src/src/SFML/System/MemoryInputStream.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj -MF CMakeFiles\sfml-system.dir\MemoryInputStream.cpp.obj.d -o CMakeFiles\sfml-system.dir\MemoryInputStream.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\MemoryInputStream.cpp
@@ -238,7 +238,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cp
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ClockImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ClockImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ClockImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/Win32/ClockImpl.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ClockImpl.cpp.obj: _deps/sfml-src/src/SFML/System/Win32/ClockImpl.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ClockImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ClockImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ClockImpl.cpp.obj -MF CMakeFiles\sfml-system.dir\Win32\ClockImpl.cpp.obj.d -o CMakeFiles\sfml-system.dir\Win32\ClockImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\Win32\ClockImpl.cpp
@@ -253,7 +253,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ClockImpl.cpp.
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/MutexImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/MutexImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/MutexImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/Win32/MutexImpl.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/MutexImpl.cpp.obj: _deps/sfml-src/src/SFML/System/Win32/MutexImpl.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/MutexImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/MutexImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/MutexImpl.cpp.obj -MF CMakeFiles\sfml-system.dir\Win32\MutexImpl.cpp.obj.d -o CMakeFiles\sfml-system.dir\Win32\MutexImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\Win32\MutexImpl.cpp
@@ -268,7 +268,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/MutexImpl.cpp.
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/Win32/SleepImpl.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj: _deps/sfml-src/src/SFML/System/Win32/SleepImpl.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj -MF CMakeFiles\sfml-system.dir\Win32\SleepImpl.cpp.obj.d -o CMakeFiles\sfml-system.dir\Win32\SleepImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\Win32\SleepImpl.cpp
@@ -283,7 +283,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/Win32/ThreadImpl.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadImpl.cpp.obj: _deps/sfml-src/src/SFML/System/Win32/ThreadImpl.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadImpl.cpp.obj -MF CMakeFiles\sfml-system.dir\Win32\ThreadImpl.cpp.obj.d -o CMakeFiles\sfml-system.dir\Win32\ThreadImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\Win32\ThreadImpl.cpp
@@ -298,7 +298,7 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadImpl.cpp
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadLocalImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/flags.make
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadLocalImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadLocalImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/System/Win32/ThreadLocalImpl.cpp
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadLocalImpl.cpp.obj: _deps/sfml-src/src/SFML/System/Win32/ThreadLocalImpl.cpp
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadLocalImpl.cpp.obj: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadLocalImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\System && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/ThreadLocalImpl.cpp.obj -MF CMakeFiles\sfml-system.dir\Win32\ThreadLocalImpl.cpp.obj.d -o CMakeFiles\sfml-system.dir\Win32\ThreadLocalImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\System\Win32\ThreadLocalImpl.cpp
@@ -372,6 +372,6 @@ _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/clean:
 .PHONY : _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/clean
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje\output C:\prog2proje\build\_deps\sfml-src\src\SFML\System C:\prog2proje\build C:\prog2proje\build\_deps\sfml-build\src\SFML\System C:\prog2proje\build\_deps\sfml-build\src\SFML\System\CMakeFiles\sfml-system.dir\DependInfo.cmake "--color=$(COLOR)" sfml-system
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje C:\prog2proje\build\_deps\sfml-src\src\SFML\System C:\prog2proje\build C:\prog2proje\build\_deps\sfml-build\src\SFML\System C:\prog2proje\build\_deps\sfml-build\src\SFML\System\CMakeFiles\sfml-system.dir\DependInfo.cmake "--color=$(COLOR)" sfml-system
 .PHONY : _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/depend
 

@@ -19,11 +19,11 @@ set(CMAKE_TARGET_DEFINITIONS_RC
 
 # The include file search paths:
 set(CMAKE_RC_TARGET_INCLUDE_PATH
-  "C:/prog2proje/build/_deps/sfml-src/include"
-  "C:/prog2proje/build/_deps/sfml-src/src"
-  "C:/prog2proje/build/_deps/sfml-src/extlibs/headers/stb_image"
-  "C:/prog2proje/build/_deps/sfml-src/extlibs/headers/glad/include"
-  "C:/prog2proje/build/_deps/sfml-src/extlibs/headers/freetype2"
+  "_deps/sfml-src/include"
+  "_deps/sfml-src/src"
+  "_deps/sfml-src/extlibs/headers/stb_image"
+  "_deps/sfml-src/extlibs/headers/glad/include"
+  "_deps/sfml-src/extlibs/headers/freetype2"
   )
 
 # The set of dependency files which are needed:

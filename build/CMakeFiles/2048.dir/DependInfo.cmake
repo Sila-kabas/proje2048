@@ -8,7 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/prog2proje/output/main.cpp" "CMakeFiles/2048.dir/main.cpp.obj" "gcc" "CMakeFiles/2048.dir/main.cpp.obj.d"
+  "C:/prog2proje/main.cpp" "CMakeFiles/2048.dir/main.cpp.obj" "gcc" "CMakeFiles/2048.dir/main.cpp.obj.d"
+  "C:/prog2proje/oyun.cpp" "CMakeFiles/2048.dir/oyun.cpp.obj" "gcc" "CMakeFiles/2048.dir/oyun.cpp.obj.d"
+  "C:/prog2proje/tahta.cpp" "CMakeFiles/2048.dir/tahta.cpp.obj" "gcc" "CMakeFiles/2048.dir/tahta.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

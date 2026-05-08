@@ -21,16 +21,7 @@
 2048_Oyunu_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-2048_Oyunu_SOURCE_DIR:STATIC=C:/prog2proje/output
-
-//Value Computed by CMake
-2048projesi_BINARY_DIR:STATIC=C:/prog2proje/build
-
-//Value Computed by CMake
-2048projesi_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-2048projesi_SOURCE_DIR:STATIC=C:/prog2proje/output
+2048_Oyunu_SOURCE_DIR:STATIC=C:/prog2proje
 
 //TRUE to build SFML as shared libraries, FALSE to build it as
 // static libraries
@@ -170,7 +161,7 @@ CMAKE_INSTALL_MANDIR:PATH=
 CMAKE_INSTALL_OLDINCLUDEDIR:PATH=/usr/include
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/2048projesi
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/2048_Oyunu
 
 //Run-time variable data (LOCALSTATEDIR/run)
 CMAKE_INSTALL_RUNSTATEDIR:PATH=
@@ -563,7 +554,7 @@ CMAKE_GENERATOR_PLATFORM:INTERNAL=
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=C:/prog2proje/output
+CMAKE_HOME_DIRECTORY:INTERNAL=C:/prog2proje
 //ADVANCED property for variable: CMAKE_INSTALL_BINDIR
 CMAKE_INSTALL_BINDIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_INSTALL_DATADIR
@@ -742,5 +733,5 @@ VORBIS_INCLUDE_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: VORBIS_LIBRARY
 VORBIS_LIBRARY-ADVANCED:INTERNAL=1
 //CMAKE_INSTALL_PREFIX during last run
-_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=C:/Program Files (x86)/2048projesi
+_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=C:/Program Files (x86)/2048_Oyunu
 

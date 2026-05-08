@@ -52,7 +52,7 @@ RM = C:\mingw64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\prog2proje\output
+CMAKE_SOURCE_DIR = C:\prog2proje
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\prog2proje\build
@@ -73,7 +73,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/codegen:
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/BlendMode.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj: _deps/sfml-src/src/SFML/Graphics/BlendMode.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj -MF CMakeFiles\sfml-graphics.dir\BlendMode.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\BlendMode.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\BlendMode.cpp
@@ -88,7 +88,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.s:
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/Color.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.obj: _deps/sfml-src/src/SFML/Graphics/Color.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.obj -MF CMakeFiles\sfml-graphics.dir\Color.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\Color.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\Color.cpp
@@ -103,7 +103,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.s: cma
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/Font.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj: _deps/sfml-src/src/SFML/Graphics/Font.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj -MF CMakeFiles\sfml-graphics.dir\Font.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\Font.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\Font.cpp
@@ -118,7 +118,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.s: cmak
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/Glsl.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj: _deps/sfml-src/src/SFML/Graphics/Glsl.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj -MF CMakeFiles\sfml-graphics.dir\Glsl.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\Glsl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\Glsl.cpp
@@ -133,7 +133,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.s: cmak
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj: _deps/sfml-src/src/SFML/Graphics/GLCheck.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj -MF CMakeFiles\sfml-graphics.dir\GLCheck.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\GLCheck.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\GLCheck.cpp
@@ -148,7 +148,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.s: c
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj: _deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj -MF CMakeFiles\sfml-graphics.dir\GLExtensions.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\GLExtensions.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\GLExtensions.cpp
@@ -163,7 +163,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/Image.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj: _deps/sfml-src/src/SFML/Graphics/Image.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj -MF CMakeFiles\sfml-graphics.dir\Image.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\Image.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\Image.cpp
@@ -178,7 +178,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.s: cma
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/ImageLoader.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.obj: _deps/sfml-src/src/SFML/Graphics/ImageLoader.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -fno-strict-aliasing -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.obj -MF CMakeFiles\sfml-graphics.dir\ImageLoader.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\ImageLoader.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\ImageLoader.cpp
@@ -193,7 +193,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/RenderStates.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj: _deps/sfml-src/src/SFML/Graphics/RenderStates.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj -MF CMakeFiles\sfml-graphics.dir\RenderStates.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\RenderStates.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\RenderStates.cpp
@@ -208,7 +208,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj: _deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj -MF CMakeFiles\sfml-graphics.dir\RenderTexture.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\RenderTexture.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\RenderTexture.cpp
@@ -223,7 +223,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cp
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj: _deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj -MF CMakeFiles\sfml-graphics.dir\RenderTarget.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\RenderTarget.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\RenderTarget.cpp
@@ -238,7 +238,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj: _deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj -MF CMakeFiles\sfml-graphics.dir\RenderWindow.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\RenderWindow.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\RenderWindow.cpp
@@ -253,7 +253,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/Shader.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj: _deps/sfml-src/src/SFML/Graphics/Shader.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj -MF CMakeFiles\sfml-graphics.dir\Shader.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\Shader.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\Shader.cpp
@@ -268,7 +268,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.s: cm
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/Texture.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj: _deps/sfml-src/src/SFML/Graphics/Texture.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj -MF CMakeFiles\sfml-graphics.dir\Texture.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\Texture.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\Texture.cpp
@@ -283,7 +283,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.s: c
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/TextureSaver.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj: _deps/sfml-src/src/SFML/Graphics/TextureSaver.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj -MF CMakeFiles\sfml-graphics.dir\TextureSaver.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\TextureSaver.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\TextureSaver.cpp
@@ -298,7 +298,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/Transform.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj: _deps/sfml-src/src/SFML/Graphics/Transform.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj -MF CMakeFiles\sfml-graphics.dir\Transform.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\Transform.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\Transform.cpp
@@ -313,7 +313,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.s:
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/Transformable.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj: _deps/sfml-src/src/SFML/Graphics/Transformable.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj -MF CMakeFiles\sfml-graphics.dir\Transformable.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\Transformable.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\Transformable.cpp
@@ -328,7 +328,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cp
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/View.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj: _deps/sfml-src/src/SFML/Graphics/View.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj -MF CMakeFiles\sfml-graphics.dir\View.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\View.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\View.cpp
@@ -343,7 +343,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.s: cmak
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/Vertex.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.obj: _deps/sfml-src/src/SFML/Graphics/Vertex.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.obj -MF CMakeFiles\sfml-graphics.dir\Vertex.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\Vertex.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\Vertex.cpp
@@ -358,7 +358,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.s: cm
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/Shape.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj: _deps/sfml-src/src/SFML/Graphics/Shape.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj -MF CMakeFiles\sfml-graphics.dir\Shape.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\Shape.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\Shape.cpp
@@ -373,7 +373,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.s: cma
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/CircleShape.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj: _deps/sfml-src/src/SFML/Graphics/CircleShape.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj -MF CMakeFiles\sfml-graphics.dir\CircleShape.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\CircleShape.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\CircleShape.cpp
@@ -388,7 +388,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/RectangleShape.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj: _deps/sfml-src/src/SFML/Graphics/RectangleShape.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj -MF CMakeFiles\sfml-graphics.dir\RectangleShape.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\RectangleShape.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\RectangleShape.cpp
@@ -403,7 +403,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.c
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj: _deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj -MF CMakeFiles\sfml-graphics.dir\ConvexShape.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\ConvexShape.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\ConvexShape.cpp
@@ -418,7 +418,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/Sprite.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj: _deps/sfml-src/src/SFML/Graphics/Sprite.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj -MF CMakeFiles\sfml-graphics.dir\Sprite.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\Sprite.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\Sprite.cpp
@@ -433,7 +433,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.s: cm
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/Text.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj: _deps/sfml-src/src/SFML/Graphics/Text.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj -MF CMakeFiles\sfml-graphics.dir\Text.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\Text.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\Text.cpp
@@ -448,7 +448,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.s: cmak
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/VertexArray.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj: _deps/sfml-src/src/SFML/Graphics/VertexArray.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj -MF CMakeFiles\sfml-graphics.dir\VertexArray.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\VertexArray.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\VertexArray.cpp
@@ -463,7 +463,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/VertexBuffer.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj: _deps/sfml-src/src/SFML/Graphics/VertexBuffer.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj -MF CMakeFiles\sfml-graphics.dir\VertexBuffer.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\VertexBuffer.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\VertexBuffer.cpp
@@ -478,7 +478,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.obj: _deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.obj -MF CMakeFiles\sfml-graphics.dir\RenderTextureImpl.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\RenderTextureImpl.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\RenderTextureImpl.cpp
@@ -493,7 +493,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj: _deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj -MF CMakeFiles\sfml-graphics.dir\RenderTextureImplFBO.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\RenderTextureImplFBO.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\RenderTextureImplFBO.cpp
@@ -508,7 +508,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/flags.make
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/includes_CXX.rsp
-_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj: C:/prog2proje/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.cpp
+_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj: _deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.cpp
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\prog2proje\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj"
 	cd /d C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics && C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS)  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -MD -MT _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj -MF CMakeFiles\sfml-graphics.dir\RenderTextureImplDefault.cpp.obj.d -o CMakeFiles\sfml-graphics.dir\RenderTextureImplDefault.cpp.obj -c C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics\RenderTextureImplDefault.cpp
@@ -597,7 +597,7 @@ _deps/sfml-build/lib/sfml-graphics-d-2.dll: _deps/sfml-build/src/SFML/Graphics/C
 _deps/sfml-build/lib/sfml-graphics-d-2.dll: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/build.make
 _deps/sfml-build/lib/sfml-graphics-d-2.dll: _deps/sfml-build/lib/libsfml-window-d.a
 _deps/sfml-build/lib/sfml-graphics-d-2.dll: _deps/sfml-build/lib/libsfml-system-d.a
-_deps/sfml-build/lib/sfml-graphics-d-2.dll: C:/prog2proje/build/_deps/sfml-src/extlibs/libs-mingw/x64/libfreetype.a
+_deps/sfml-build/lib/sfml-graphics-d-2.dll: _deps/sfml-src/extlibs/libs-mingw/x64/libfreetype.a
 _deps/sfml-build/lib/sfml-graphics-d-2.dll: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/linkLibs.rsp
 _deps/sfml-build/lib/sfml-graphics-d-2.dll: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/objects1.rsp
 _deps/sfml-build/lib/sfml-graphics-d-2.dll: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/link.txt
@@ -613,6 +613,6 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/clean:
 .PHONY : _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/clean
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje\output C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics C:\prog2proje\build C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics\CMakeFiles\sfml-graphics.dir\DependInfo.cmake "--color=$(COLOR)" sfml-graphics
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\prog2proje C:\prog2proje\build\_deps\sfml-src\src\SFML\Graphics C:\prog2proje\build C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics C:\prog2proje\build\_deps\sfml-build\src\SFML\Graphics\CMakeFiles\sfml-graphics.dir\DependInfo.cmake "--color=$(COLOR)" sfml-graphics
 .PHONY : _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/depend
 
