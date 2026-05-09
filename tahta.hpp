@@ -10,6 +10,10 @@ class Tahta{
     Tahta();
     void sifirla();
     void rastgeleSayiEkle();
+    void solaKaydir();
+    void sagaKaydir();
+    void yukariKaydir();
+    void asagiKaydir();
 
 };
 #endif

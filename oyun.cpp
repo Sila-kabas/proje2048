@@ -11,7 +11,6 @@ if (!font.loadFromFile("../arial.ttf")) {
 }
     font.loadFromFile("arial.ttf");
     tahta.sifirla();
-    
     }
 
     void Oyun::olaylar(){
@@ -19,9 +18,30 @@ if (!font.loadFromFile("../arial.ttf")) {
         while(window.pollEvent(event)){
             if(event.type==sf::Event::Closed){
                 window.close();
+            }   
+        
+
+                if(event.type==sf::Event::KeyPressed){
+                    if(event.key.code==sf::Keyboard::Left){
+                        tahta.solaKaydir();
+                        tahta.rastgeleSayiEkle();
+
+                    }
+                    else if(event.key.code==sf::Keyboard::Right){
+                        tahta.sagaKaydir();
+                        tahta.rastgeleSayiEkle();
+                    }
+                    else if(event.key.code==sf::Keyboard::Down){
+                        tahta.asagiKaydir();
+                        tahta.rastgeleSayiEkle();
+                    }
+                    else if(event.key.code==sf::Keyboard::Up){
+                        tahta.yukariKaydir();
+                        tahta.rastgeleSayiEkle();
+                    }
+                }
             }
         }
-    }
 
     
     //cizdiren fonk
@@ -51,9 +71,8 @@ if (!font.loadFromFile("../arial.ttf")) {
     window.display();//cizilenleri ekranda gosterir
 }
     
-
     // Oyunu başlatan burası
-void Oyun::calistir() {
+void Oyun::calistir(){
     while (window.isOpen()) {
         olaylar(); 
         ciz();          
