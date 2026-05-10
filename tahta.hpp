@@ -14,6 +14,7 @@ class Tahta{
     void sagaKaydir();
     void yukariKaydir();
     void asagiKaydir();
+    bool oyunBittiMi();
 
 };
 #endif

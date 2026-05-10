@@ -13,6 +13,7 @@ class Oyun {
     void calistir();
     void olaylar();
     void ciz();
+    bool bittiMi=false;
 
 };
 #endif

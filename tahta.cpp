@@ -99,7 +99,7 @@ void Tahta::sagaKaydir(){
             }
          }
           yazilacakYer=3;
-            for(int sutun=0; sutun<4; sutun++){
+            for(int sutun=3; sutun>=0; sutun--){
                 if(matris[satir][sutun]!=0){
                     int sayi=matris[satir][sutun];
                     matris[satir][sutun]=0;
@@ -175,4 +175,28 @@ void Tahta::asagiKaydir(){
             }
         }
     }
+}
+
+bool Tahta::oyunBittiMi(){
+    std::cout<<"sorgu"<<std::endl;
+    for(int satir=0; satir<4; satir++){
+        for(int sutun=0; sutun<4; sutun++){
+            if(matris[satir][sutun]==0){
+                return false;
+            }
+        }
+    }
+
+    for(int satir=0; satir<4; satir++){
+        for(int sutun=0; sutun<4; sutun++){
+            if(matris[satir][sutun]==matris[satir][sutun+1]){
+                return false;
+            }
+            if(matris[satir][sutun]==matris[satir+1][sutun]){
+                return false;
+            }
+        }
+    }
+    std::cout<<"game over"<<std::endl;
+    return true;
 }

@@ -39,9 +39,13 @@ if (!font.loadFromFile("../arial.ttf")) {
                         tahta.yukariKaydir();
                         tahta.rastgeleSayiEkle();
                     }
+                if(tahta.oyunBittiMi()){
+                    std::cout<<"game over"<<std::endl;
+                    bittiMi=true;
                 }
             }
         }
+    }
 
     
     //cizdiren fonk
@@ -57,10 +61,9 @@ if (!font.loadFromFile("../arial.ttf")) {
      
           if(tahta.matris[satir][sutun]!=0){
             sf::Text yazi;
-            // Test için: Her karenin içine 2 yazdıralım (Sadece çalışıyor mu bakmak için)
             yazi.setFont(font);
             yazi.setString(std::to_string(tahta.matris[satir][sutun]));
-            yazi.setCharacterSize(90);
+            yazi.setCharacterSize(75);
             yazi.setFillColor(sf::Color::Black);
             yazi.setStyle(sf::Text::Bold);
             yazi.setPosition(sutun*170+75, satir*170+40);
@@ -68,6 +71,21 @@ if (!font.loadFromFile("../arial.ttf")) {
           }
     }
     }
+    if(bittiMi==true){
+        sf::RectangleShape ekran(sf::Vector2f(1200, 1200)); // 
+          ekran.setFillColor(sf::Color(205, 193, 180));     // 
+          window.draw(ekran);
+     
+            sf::Text bitisyazisi;
+            bitisyazisi.setFont(font);
+            bitisyazisi.setString("game over");
+            bitisyazisi.setCharacterSize(75);
+            bitisyazisi.setFillColor(sf::Color::Black);
+            bitisyazisi.setStyle(sf::Text::Bold);
+            bitisyazisi.setPosition(190,200);
+            window.draw(bitisyazisi);
+    }
+
     window.display();//cizilenleri ekranda gosterir
 }
     
