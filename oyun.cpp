@@ -71,7 +71,7 @@ if (!font.loadFromFile("../arial.ttf")) {
           }
     }
     }
-    if(bittiMi==true){
+    if(bittiMi){
         sf::RectangleShape ekran(sf::Vector2f(1200, 1200)); // 
           ekran.setFillColor(sf::Color(205, 193, 180));     // 
           window.draw(ekran);
@@ -84,6 +84,16 @@ if (!font.loadFromFile("../arial.ttf")) {
             bitisyazisi.setStyle(sf::Text::Bold);
             bitisyazisi.setPosition(190,200);
             window.draw(bitisyazisi);
+
+     
+            sf::Text skoryazisi;
+            skoryazisi.setFont(font);
+            skoryazisi.setString("skor "+ std::to_string(tahta.skor));
+            skoryazisi.setCharacterSize(75);
+            skoryazisi.setFillColor(sf::Color::Black);
+            skoryazisi.setStyle(sf::Text::Bold);
+            skoryazisi.setPosition(150,350);
+            window.draw(skoryazisi);
     }
 
     window.display();//cizilenleri ekranda gosterir

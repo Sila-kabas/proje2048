@@ -187,8 +187,8 @@ bool Tahta::oyunBittiMi(){
         }
     }
 
-    for(int satir=0; satir<4; satir++){
-        for(int sutun=0; sutun<4; sutun++){
+    for(int satir=0; satir<3; satir++){
+        for(int sutun=0; sutun<3; sutun++){
             if(matris[satir][sutun]==matris[satir][sutun+1]){
                 return false;
             }
